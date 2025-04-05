@@ -3,7 +3,7 @@
 [![Dependabot Updates](https://github.com/devnickxyz/go-todo-cli/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/devnickxyz/go-todo-cli/actions/workflows/dependabot/dependabot-updates)
 
 # Here is a link to demo
-Inspierd by: (BetterStack: pgx gotodo)[https://betterstack.com/community/guides/scaling-go/postgresql-pgx-golang/]
+Inspierd by: [BetterStack: pgx gotodo](https://betterstack.com/community/guides/scaling-go/postgresql-pgx-golang/)
 
 What is going to be changed?
 
