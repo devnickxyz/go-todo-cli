@@ -1,0 +1,12 @@
+version: 2
+updates:
+  - package-ecosystem: "gomod"
+    directories:
+      - .
+    schedule:
+      interval: "weekly"
+    groups:
+      golang:
+        applies-to: security-updates
+        patterns:
+          - "golang.org*"
